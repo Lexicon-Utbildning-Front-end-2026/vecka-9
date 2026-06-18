@@ -94,7 +94,6 @@ Jobba med det ny behöver jobba med från veckans innehåll. Ta hjälp av varand
 
 ## 📅 Fredag: Kodsnack och repetition
 
-Alla länkar idag är bara extra och sånt vi kommer gå igenom senare i kursen. De är till för om ni vill köra lite snabbare takt eller se hur någon annan förklarar vissa bitar. Obs - En del av det de visar kommer vi troligen inte ta upp alls under kursen som prisma t ex.
 
 ## Kodsnack
 **Frågor för Code Review:**
@@ -114,6 +113,7 @@ Om det är något intressant ni vill dela med klassen om era tankar om kodandet 
 * Fördjupa förståelsen genom att granska och diskutera kod.
 
 ### 📚 Material
+Alla länkar här nedan är bara extra och sånt vi kommer gå igenom senare i kursen. De är till för om ni vill köra lite snabbare takt eller se hur någon annan förklarar vissa bitar. Obs - En del av det de visar kommer vi troligen inte ta upp alls under kursen som prisma t ex.
 
 #### 💻 E-Learning
 * [Jan Marshal - Master Next.js 15 in Just 3 Hours (With Authentication)](https://www.youtube.com/watch?v=PqxHnMfyCUY)
@@ -122,6 +122,5 @@ Om det är något intressant ni vill dela med klassen om era tankar om kodandet 
 
 #### 🛠️ Övningar
 * [Finns lite olika övningar här om ni vill ha lite mer att testa. T ex CODE LAB Guided: Foundations of Next.js 14 och CODE LAB Guided: Creating Pages, Layouts, & Routes in a Next.js Finance Application -   typ](https://app.pluralsight.com/paths/skills/nextjs)
-* [Next.js Dashboard-app](https://nextjs.org/learn/dashboard-app)
 
 ---
