@@ -30,7 +30,6 @@ Vi bygger början på appen, går igenom grunderna och skapar en hero för förs
 * [**Viktigt** - Läs fram till och med "Displaying Data"](https://react.dev/learn)
 * [CSS i Next.js](https://nextjs.org/docs/app/getting-started/css)
 * [Styling with Utility Classes/Tailwind docs](https://tailwindcss.com/docs/styling-with-utility-classes)
-* [Läs delarna om page och layout](https://nextjs.org/docs/app/getting-started/layouts-and-pages#creating-a-page)
 * [Getting started - images](https://nextjs.org/docs/app/getting-started/images)
 * [Docs - Nextjs Image](https://nextjs.org/docs/app/api-reference/components/image)
 
@@ -47,7 +46,6 @@ Vi bygger vidare med huvudmeny och en om-oss-sida.
 
 ### 🎯 Mål för dagen
 
-* Intro till Tailwind
 * Mer om komponenter, skillnaden mellan funktioner/metoder och komponenter
 * Namnkonventioner i Next.js
 * Ev children/React.ReactNode
@@ -58,6 +56,7 @@ Vi bygger vidare med huvudmeny och en om-oss-sida.
 
 #### 📃 Läsning
 * [React Components](https://react.dev/learn/your-first-component)
+* [Läs delarna om page och layout](https://nextjs.org/docs/app/getting-started/layouts-and-pages#creating-a-page)
 * [Next.js - Linking and Navigation](https://nextjs.org/docs/app/getting-started/linking-and-navigating)
 
 #### 🛠️ Övningar
