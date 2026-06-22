@@ -120,6 +120,6 @@ Alla länkar här nedan är bara extra och sånt vi kommer gå igenom senare i k
 * [Jan Marshal - Next.js 16 Full Stack Course (8+ Hours) | Auth, Caching, Server Actions & Much More](https://www.youtube.com/watch?v=MZbwu3-uz3Y)
 
 #### 🛠️ Övningar
-* [Finns lite olika övningar här om ni vill ha lite mer att testa. T ex CODE LAB Guided: Foundations of Next.js 14 och CODE LAB Guided: Creating Pages, Layouts, & Routes in a Next.js Finance Application -   typ](https://app.pluralsight.com/paths/skills/nextjs)
+* [Finns lite olika övningar här om ni vill ha lite mer att testa. T ex CODE LAB Guided: Foundations of Next.js 14 och CODE LAB Guided: Creating Pages, Layouts, & Routes in a Next.js Finance Application](https://app.pluralsight.com/paths/skills/nextjs)
 
 ---
