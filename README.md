@@ -13,7 +13,7 @@ Vi bygger början på appen, går igenom grunderna och skapar en hero för förs
 ### 🎯 Mål för dagen
 
 * Förstå vad Next.js/React är och lite om ramverk vs bibliotek
-* Förstå grundstrukturen i ett Next.js App router projekt, dvs filer (pages, layout, tsx, route), mappar och sånt
+* Förstå grundstrukturen i ett Next.js App Router projekt, dvs filer (pages, layout, tsx, route), mappar och sånt
 * Kunna installera och köra projektet
 * Kort om tailwind vs css modules
 * Inbyggda komponenter i next.js som Image, externa bilder och next.config.ts.
