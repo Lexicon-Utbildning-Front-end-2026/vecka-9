@@ -35,7 +35,7 @@ Vi bygger början på appen, går igenom grunderna och skapar en hero för förs
 
 #### 🛠️ Övningar
 * Skapa ett nytt next.js projekt och gör en fin Hero på startsidan (testa gärna tailwind om ni vill, annars kör css.modules)
-* [Next.js Dashboard App (Gör gärna fram t o m routing, resten kan ni vänta med)](https://nextjs.org/learn/dashboard-app)
+* [Next.js Dashboard App (Gör gärna fram t o m navigating/routing, resten kan ni vänta med)](https://nextjs.org/learn/dashboard-app)
 
 ---
 
