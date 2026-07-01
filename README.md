@@ -41,7 +41,7 @@ Vi bygger början på appen, går igenom grunderna och skapar en hero för förs
 
 ## 📅 Tisdag: Komponenter och routing
 
-Vi bygger vidare med huvudmeny och en om-oss-sida.
+Vi bygger vidare med huvudmeny och en om-oss-sida. Vi flyttar ut vår hero till en komponent som vi kan importera. 
 
 
 ### 🎯 Mål för dagen
@@ -60,7 +60,7 @@ Vi bygger vidare med huvudmeny och en om-oss-sida.
 * [Next.js - Linking and Navigation](https://nextjs.org/docs/app/getting-started/linking-and-navigating)
 
 #### 🛠️ Övningar
-* Gör din egen huvudmeny med Link till en annan route (t ex "Om oss" sida)
+* Gör din egen huvudmeny med Link till en annan route (t ex "Om oss" sida). Flytta ut din hero till en react-komponent.
 
 ---
 
